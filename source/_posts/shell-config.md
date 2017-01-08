@@ -5,6 +5,9 @@ tags:
 - shell
 ---
 
+之前在逛博客的时候，发现zsh的一篇配置文档，用上十分爽。才过了没几天，又看到了fish这个shell，确实感觉比zsh强。感觉好善变啊。 -_-!!不过确实好用！！！
+
+<!-- more -->
 ## zsh
 使用 (oh-my-zsh) 来提升体检，还是不错的，github有40000+的星
 
@@ -27,6 +30,5 @@ tags:
     2. re-search (向后搜索历史命令)
 
 ### 参考
-[1](http://hackerxu.com/2015/12/13/fish.html)
-[2](http://erthalion.info/2014/08/08/from-bash-to-fish/)
-[3](https://geowarin.github.io/the-missing-fish-shell-tutorial.html)
+[zsh](http://wdxtub.com/2016/02/18/oh-my-zsh/)
+[1](http://hackerxu.com/2015/12/13/fish.html) [2](http://erthalion.info/2014/08/08/from-bash-to-fish/) [3](https://geowarin.github.io/the-missing-fish-shell-tutorial.html)
